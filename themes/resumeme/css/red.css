@@ -1,0 +1,39 @@
+/********** Global Styles **********/
+body {color:#5b5b5b;}
+h4 {color:#ffffff;}
+p {color:#5b5b5b;}
+a {color:#ffffff;}
+a:active, a:focus, a:hover, input {color:#3c0008;}
+em {color:#ffffff;}
+label {color:#ffffff;}
+.button {background:#3c0008;}
+.button:hover {background:#a94452;}
+/********** Header **********/
+/***** Naviigation *****/
+nav:active {background:#3c0008;}
+.top-bar {background:#3c0008;}
+.top-bar .name h1 a:hover {color:#ffffff;}
+.top-bar-section {background:#3c0008;}
+.top-bar-section li:not(.has-form) a:not(.button) {background:#3c0008;color:#ffffff;}
+.top-bar-section li:not(.has-form) a:not(.button):hover {background:#3c0008;color:#610b17;}
+.title-area {background:#3c0008;}
+/********** Content **********/
+#about-me {background:#610b17;}
+#about-me header {border-bottom:1px solid #bfc6c6;}
+#about-me h2 {color:#ffffff;}
+#about-me p {color:#ffffff;}
+ul.social li a {color:#ffffff;}#professional-experience {background:#7f8c8d;}
+#professional-experience header {border-bottom:1px solid #bfc6c6;}
+#professional-experience h2 {color:#ffffff;}
+#professional-experience h3 {color:#ffffff;}
+#professional-experience p {color:#ffffff;}
+#contact {background:#a94452;}#contact header {border-bottom:1px solid #bfc6c6;}
+#contact h2 {color:#ffffff;}
+#contact h3 {color:#ffffff;}
+#contact p {color:#ffffff;}
+/********** Footer **********/
+.footer {background:#3c0008;}.footer p {color: #ffffff;}
+.footer a {coor: #7f8ba1;}
+.footer a:hover {color: #ffffff;}
+.progress .meter {background:#3c0008;border-color:#3c0008;color:#ffffff;}
+#margin {margin-bottom:15px;}
