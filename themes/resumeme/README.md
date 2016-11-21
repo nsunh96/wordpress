@@ -1,8 +1,10 @@
+#ResumeMe Free WordPress Theme
+
 ## Synopsis
 
 Welcome to ResumeMe, a Free WordPress theme to post your resume. The menu uses smoothscroll.js to scroll to each section of your resume. This theme was built with the Foundation CSS framework, so it is fully responsive.
 
-Demo can be found here: http://resumeme.nathansumner.com/
+###Demo can be found here: [http://resumeme.nathansumner.com/] (http://resumeme.nathansumner.com/)
 
 ## Motivation
 
