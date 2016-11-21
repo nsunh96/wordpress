@@ -16,6 +16,9 @@ nav:active {background:#3F7CAC;}
 .top-bar-section {background:#3F7CAC;}
 .top-bar-section li:not(.has-form) a:not(.button) {background:#3F7CAC;color:#ffffff;}
 .top-bar-section li:not(.has-form) a:not(.button):hover {background:#3F7CAC;color:#95AFBA;}
+.top-bar.expanded .title-area {background:#3F7CAC;}
+.top-bar.expanded .toggle-topbar a {color:#fff;}
+.top-bar.expanded .toggle-topbar a span::after {box-shadow: 0 0 0 1px #fff, 0 7px 0 1px #fff, 0 14px 0 1px #fff;}
 .title-area {background:#3F7CAC;}
 /********** Content **********/
 #about-me {background:#95AFBA;}

@@ -17,6 +17,9 @@ nav:active {background:#003253;}
 .top-bar-section li:not(.has-form) a:not(.button) {background:#003253;color:#ffffff;}
 .top-bar-section li:not(.has-form) a:not(.button):hover {background:#003253;color:#030A16;}
 .title-area {background:#003253;}
+.top-bar.expanded .title-area {background:#003253;}
+.top-bar.expanded .toggle-topbar a {color:#fff;}
+.top-bar.expanded .toggle-topbar a span::after {box-shadow: 0 0 0 1px #fff, 0 7px 0 1px #fff, 0 14px 0 1px #fff;}
 /********** Content **********/
 #about-me {background:#030A16;}
 #about-me header {border-bottom:1px solid #bfc6c6;}
